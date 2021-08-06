@@ -2,7 +2,7 @@ provider "azurerm" {
   features {}
 }
   variable "prefix" {
-  default = "Prashant kumar"
+  default = "Prashant"
 }
 
 locals {
